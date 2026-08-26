@@ -98,7 +98,7 @@ const Header = () => {
         <motion.a 
           whileHover={{ scale: 1.03 }}
           whileTap={{ scale: 0.97 }}
-          href="/VRUSHABH-resume.pdf" 
+          href="/VRUSHABH_resume.pdf" 
           download 
           className='px-9 py-3.5 rounded-full border border-slate-400 dark:border-slate-600 flex items-center gap-3 bg-white text-slate-900 dark:bg-transparent dark:text-white dark:hover:bg-slate-800/50 font-medium transition-all'
         >
