@@ -85,19 +85,19 @@ export const workData = [
     },
     {
         title: 'Employee Management',
-        description: 'Role-Based Multi-Portal & Automated Payroll',
+        description: 'Role-Based Portal & Asynchronous Payroll Engine',
         bgImage: '/work-2.png',
         link: 'https://github.com/vrushabh-prajapati'
     },
     {
-        title: 'RAG AI Pipeline',
-        description: 'Gemini AI Context-Aware Integration',
+        title: 'Spring AI & RAG Pipeline',
+        description: 'Context-Aware GenAI Integration & Query Routing',
         bgImage: '/work-3.png',
         link: 'https://github.com/vrushabh-prajapati'
     },
     {
-        title: 'Full-Stack Apps',
-        description: 'MERN Stack & REST API Engineering',
+        title: 'Enterprise Backend Systems',
+        description: 'Microservices Architecture & RESTful APIs',
         bgImage: '/work-4.png',
         link: 'https://github.com/vrushabh-prajapati'
     },
@@ -106,26 +106,26 @@ export const workData = [
 export const serviceData = [
     { 
         icon: assets.code_icon, 
-        title: 'Full-Stack Web Dev', 
-        description: 'Designing scalable MERN & Next.js web applications with modern UI and optimized performance.', 
+        title: 'Java Backend Engineering', 
+        description: 'Building robust, enterprise-grade backend systems using Core Java, Spring Boot, and scalable microservices architectures.', 
         link: '' 
     },
     { 
         icon: assets.project_icon, 
-        title: 'GenAI & RAG Solutions', 
-        description: 'Integrating Gemini AI, RAG pipelines, and vector databases for real-time contextual data insights.', 
+        title: 'Spring AI & GenAI Solutions', 
+        description: 'Integrating Spring AI, Retrieval-Augmented Generation (RAG) pipelines, and LLMs for intelligent, contextual backend applications.', 
         link: '' 
     },
     { 
         icon: assets.web_icon, 
-        title: 'REST API & Backend Architecture', 
-        description: 'Building secure Node.js/Express APIs, MongoDB aggregation schemas, and multi-tenant architectures.', 
+        title: 'REST APIs & Database Optimization', 
+        description: 'Designing high-performance RESTful APIs, optimizing MySQL/PostgreSQL schema structures, and tuning query indexing.', 
         link: '' 
     },
     { 
         icon: assets.graphics_icon, 
-        title: 'Background Jobs & CI/CD', 
-        description: 'Automating background tasks via Inngest and establishing GitHub Actions automated testing pipelines.', 
+        title: 'DevOps & CI/CD Pipelines', 
+        description: 'Automating build and test execution workflows using Docker, Maven/Gradle, and GitHub Actions for zero-downtime releases.', 
         link: '' 
     },
 ];
@@ -135,7 +135,7 @@ export const infoList = [
         icon: assets.code_icon, 
         iconDark: assets.code_icon_dark, 
         title: 'Languages & Core', 
-        description: 'JavaScript (ES6+), TypeScript, Java, HTML5, CSS3' 
+        description: 'Java (Core), Spring Framework, Spring Boot, Microservices, SQL' 
     },
     { 
         icon: assets.edu_icon, 
@@ -146,11 +146,11 @@ export const infoList = [
     { 
         icon: assets.project_icon, 
         iconDark: assets.project_icon_dark, 
-        title: 'Key Projects', 
-        description: 'NexoraSpace (GenAI SaaS) & Employee Mgmt System' 
+        title: 'Key Focus', 
+        description: 'Scalable Backend Systems, REST APIs & Database Tuning' 
     }
 ];
 
 export const toolsData = [
-    assets.vscode, assets.mongodb, assets.git, assets.figma, assets.firebase
+    assets.vscode, assets.git, assets.mongodb, assets.figma, assets.firebase
 ];
