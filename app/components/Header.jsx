@@ -69,7 +69,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.3 }}
         className='max-w-2xl mx-auto font-Ovo text-slate-600 dark:text-slate-300 text-base sm:text-lg leading-relaxed'
       >
-        B.E. Computer Science, 2026. Specializing in MERN stack, REST APIs, and GenAI SaaS platforms. Built production-grade applications covering multi-tenancy, RAG pipelines, asynchronous processing, and CI/CD.
+       Software Engineer specializing in Core Java, Spring Boot, and microservices architecture. Experienced in designing scalable backend systems, high-performance REST APIs, and optimized databases. Passionate about clean code, automated CI/CD pipelines, and building reliable enterprise-grade applications.
       </motion.p>
 
       {/* Action Buttons (Solid Black & High Contrast) */}

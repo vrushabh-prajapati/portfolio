@@ -15,18 +15,18 @@ const About = ({ isDarkMode }) => {
     },
     {
       title: 'Specialization',
-      description: 'MERN Stack, GenAI (RAG), & Cloud',
+      description: 'Java, Spring Boot, & Microservices',
     },
   ]
 
   const techStack = [
-    'React.js',
-    'Next.js',
-    'Node.js',
-    'Express.js',
-    'TypeScript',
-    'MongoDB',
-    'Tailwind CSS',
+    'Java',
+    'Spring Boot',
+    'Spring Data JPA',
+    'Microservices',
+    'MySQL',
+    'PostgreSQL',
+    'Docker',
     'Git',
   ]
 
@@ -85,7 +85,7 @@ const About = ({ isDarkMode }) => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className='mb-8 font-Ovo text-base sm:text-lg leading-relaxed text-slate-700 dark:text-slate-300 font-normal'
           >
-            I am a full-stack software engineer pursuing my B.E. in Computer Science (2022–2026). I specialize in building scalable web applications using the MERN stack, designing robust REST APIs, and integrating GenAI SaaS features. My experience includes architecting multi-tenant systems, RAG pipelines, background job automation with Inngest, and automated CI/CD deployment pipelines.
+           I am a Computer Science graduate and Java Developer focused on enterprise application development and backend architecture. My work centers on building resilient systems using Core Java, Spring Boot, and Microservices, emphasizing clean design patterns, efficient RESTful APIs, and database optimization. I am dedicated to writing scalable code, fine-tuning performance, and streamlining deployment workflows.
           </motion.p>
 
           {/* Info Cards Grid */}
