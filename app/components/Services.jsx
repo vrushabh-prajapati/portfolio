@@ -37,7 +37,7 @@ const Services = ({ isDarkMode }) => {
         transition={{ duration: 0.5, delay: 0.3 }}
         className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo text-slate-600 dark:text-slate-300 font-medium text-base sm:text-lg leading-relaxed'
       >
-        I am a full-stack engineer specializing in JAVA development, building multi-tenant GenAI platforms, designing scalable REST APIs, and automating backend operations.
+        I am a Software Engineer specializing in Core Java and Spring Boot, building scalable backend systems, secure REST APIs, microservices architectures, and optimized databases.
       </motion.p>
 
       {/* Services Grid */}

@@ -20,14 +20,26 @@ const About = ({ isDarkMode }) => {
   ]
 
   const techStack = [
-    'Java',
+    'Java (Core)',
     'Spring Boot',
-    'Spring Data JPA',
+    'Spring Framework',
     'Microservices',
+    'Spring Data JPA',
+    'Hibernate ORM',
+    'REST APIs',
+    'Spring Security',
+    'JWT / OAuth2',
     'MySQL',
     'PostgreSQL',
+    'H2 Database',
+    'JUnit 5 & Mockito',
+    'JavaScript (ES6+)',
     'Docker',
-    'Git',
+    'Apache Maven',
+    'Gradle',
+    'Git & GitHub',
+    'GitHub Actions (CI/CD)',
+    'Postman',
   ]
 
   return (
